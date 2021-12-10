@@ -1,0 +1,8 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/volkanakyel/Webproject/nuxt-hotel-trillo/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

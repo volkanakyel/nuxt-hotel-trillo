@@ -1,0 +1,29 @@
+{
+  "BookingBtn": {
+    "description": "Auto imported from components/booking-btn.vue"
+  },
+  "CtaSection": {
+    "description": "Auto imported from components/cta-section.vue"
+  },
+  "DetailsHotel": {
+    "description": "Auto imported from components/details-hotel.vue"
+  },
+  "FormInput": {
+    "description": "Auto imported from components/form-input.vue"
+  },
+  "Gallery": {
+    "description": "Auto imported from components/gallery.vue"
+  },
+  "HeaderSection": {
+    "description": "Auto imported from components/header-section.vue"
+  },
+  "Overview": {
+    "description": "Auto imported from components/overview.vue"
+  },
+  "SidebarNavigation": {
+    "description": "Auto imported from components/sidebar-navigation.vue"
+  },
+  "UserReviews": {
+    "description": "Auto imported from components/user-reviews.vue"
+  }
+}
